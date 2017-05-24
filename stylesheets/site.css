@@ -1,1 +1,31 @@
-body{background-color:darkcyan;color:#f6f6f6;font-family:-apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;padding:22vh 1rem;text-align:center}a{color:rgba(0,0,0,0.7)}a:focus,a:hover{color:rgba(0,0,0,0.6)}.middleman-logo{margin-bottom:1rem;width:10rem;background:floralwhite}h1{font-size:14px;font-weight:normal;text-align:center}
+body {
+  background-color: darkcyan;
+  color: #f6f6f6;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  padding: 22vh 1rem;
+  text-align: center; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+.middleman-logo {
+  margin-bottom: 1rem;
+  width: 10rem;
+  background: floralwhite; }
+
+h1 {
+  font-size: 14px;
+  font-weight: normal;
+  text-align: center; }
+
+.readmore {
+  margin: 10px 2px;
+  font-size: 14px;
+  font-weight: bold; }
+
+.readmore a {
+  color: #f3f3f3; }
+  .readmore a:focus, .readmore a:hover {
+    color: #fafafa; }
