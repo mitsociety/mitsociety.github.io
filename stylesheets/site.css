@@ -26,6 +26,26 @@ h1 {
   font-weight: bold; }
 
 .readmore a {
-  color: #f3f3f3; }
-  .readmore a:focus, .readmore a:hover {
-    color: #fafafa; }
+  color: #f3f3f3;
+}
+
+.readmore a:focus, .readmore a:hover {
+  color: #fafafa;
+}
+
+.temuakrab-banner {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #983A88;
+    padding: 3px;
+    font-size: 1.2em;
+    border-bottom: 2px dotted rgba(34,58,136,0.87);
+}
+
+.temuakrab-banner a {
+    color: #fff;
+    text-decoration: none;
+}
